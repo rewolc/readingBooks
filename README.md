@@ -1,7 +1,7 @@
 Читаю книги, заношу примеры, чтобы не забыть.
 Так же решаю здесь задачки по JS
 
-##Мои заметки по прочитанному
+## Мои заметки по прочитанному
 [Ссылка на Evernote](https://www.evernote.com/client/web?login=true#?an=true&n=b4705485-35cb-ee55-8fbc-23e09570a142&)
 
 [Вы не знаете Javascript Асинхронная обработка и оптимизация](https://vk.com/doc44301783_511335582?hash=wJZh0bZuuteI8Zv9XndCWdUmI67IGeMpWeltZcax9WL&dl=zH47Lziq4AxXYDBjKzokMzoRMFMtqDwGNmriIXSlSa4)

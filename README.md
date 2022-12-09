@@ -11,3 +11,5 @@
 [JavaScript. Шаблоны. ](https://vk.com/doc44301783_606984636?hash=TpqYczsZ02ox1wMajYnPfdYqFCCksrZyYKRV34ozUyT&dl=3AnhihqViF6ziyWesA9PMNjciTmuRZoQz6LFfhiswV8)
 
 [Выразительный JavaScript. Современное веб-программирование 3-е изд ](https://vk.com/doc44301783_511326840?hash=V2LljDRXJxGdlZTjPlObZUSLvqrG0JIfIjF4JmfCiIg&dl=6mTeCOXmR37oWf0QW6iY38sfdttz1K4t2xwCSesAYvT)
+
+[HTTP2 в действии](https://vk.com/doc194499929_654369766?hash=4qFN1hGbVd4fNt8ngqgtVc54jZzgekzX2usIwgxoX3D&dl=cXZRvzKwLS2Siscwj5Quy4afboLttl6pPG0ceEki5Pw)
